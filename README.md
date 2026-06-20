@@ -1,5 +1,4 @@
-[philosophy_cheatsheet.html](https://github.com/user-attachments/files/29163381/philosophy_cheatsheet.html)
-# shpargalka
+# 📚 Философия — Интерактивная шпаргалка для экзамена
 <style>
 * { box-sizing: border-box; margin: 0; padding: 0; }
 body { font-family: var(--font-sans); }
