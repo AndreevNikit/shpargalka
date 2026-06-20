@@ -1,4 +1,7 @@
 # 📚 Философия — Интерактивная шпаргалка для экзамена
+<a href="Шпаргалка_Философия_2025.pdf">
+    Открыть шпаргалку Word
+</a>
 <style>
 * { box-sizing: border-box; margin: 0; padding: 0; }
 body { font-family: var(--font-sans); }
